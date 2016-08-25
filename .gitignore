@@ -1,0 +1,14 @@
+tutorial.pdf
+*.aux
+*.log
+*.toc
+*.spl
+*.gz
+*.dvi
+*.bbl
+*.blg
+*.ps
+*~
+.DS_Store
+*.bak
+
